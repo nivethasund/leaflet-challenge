@@ -23,7 +23,7 @@ With my knowledge of Javascript and HTML/CSS, we create markers proportionate to
 
 ### Pop-ups
 
-<img src = "https://github.com/nivethasund/leaflet-challenge/blob/main/Images/Popups.png">
+<img src = "https://github.com/nivethasund/leaflet-challenge/blob/main/Images/Popup%20Info.png">
 ----
 
 I've heavily relied on the code used in our in-class assignments, as well as the Leaflet documentation.
