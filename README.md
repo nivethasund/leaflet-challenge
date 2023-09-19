@@ -1,6 +1,8 @@
 # leaflet-challenge
 ## Module 15 Challenge Files
 
+The map is also available for viewing on the following link - https://nivethasund.github.io/leaflet-challenge/
+
 This repo contains
 - An index.html file containing code that helps users visualize the Earthquake data
 - A static folder containing
